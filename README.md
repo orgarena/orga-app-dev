@@ -21,7 +21,7 @@
 * [Desktop](https://client.orga-app.de)
 * [Admin](https://admin.orga-app.de)
 * [API](https://api.orga-app.de)
-* [Android 1.29.1](https://storgaappprod002.blob.core.windows.net/downloads/orga-app-1-29-1.apk)
+* [Android 1.26.0](https://storgaappprod002.blob.core.windows.net/downloads/orga-app-1-26-0.apk)
   
 ## SOPI
 
