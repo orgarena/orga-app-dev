@@ -1,7 +1,7 @@
 ## DEV
 
-* [iOS](https://storgaappdev2002.blob.core.windows.net/downloads/default-dev/orga-app.install.html)
-* [Android](https://storgaappdev2002.blob.core.windows.net/downloads/default-dev/orga-app.apk)
+* [iOS](https://storgaappdev2002.blob.core.windows.net/downloads/com.orgarena.orgaapp.dev/ios.install.html)
+* [Android APK](https://storgaappdev2002.blob.core.windows.net/downloads/com.orgarena.orgaapp.dev/orga-app.apk)
 * [Play Store Internal Test](https://play.google.com/apps/internaltest/4701033187922968668)
 * [Desktop](https://client-dev.orga-app.de)
 * [Desktop SOPI](https://orga-app-dev.sopidemo.de)
