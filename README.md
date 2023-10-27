@@ -2,7 +2,6 @@
 
 * [iOS Install](https://storgaappdev2002.blob.core.windows.net/downloads/com.orgarena.orgaapp.dev/ios.install.html)
 * [Android Install](https://storgaappdev2002.blob.core.windows.net/downloads/com.orgarena.orgaapp.dev/android.install.html)
-* [Android APK](https://storgaappdev2002.blob.core.windows.net/downloads/com.orgarena.orgaapp.dev/orga-app.apk)
 * [Play Store Internal Test](https://play.google.com/apps/internaltest/4701033187922968668)
 * [Desktop](https://client-dev.orga-app.de)
 * [Desktop SOPI](https://orga-app-dev.sopidemo.de)
@@ -13,7 +12,6 @@
 
 * [iOS Install](https://storgaappstag002.blob.core.windows.net/downloads/com.orgarena.orgaapp.staging/ios.install.html)
 * [Android Install](https://storgaappstag002.blob.core.windows.net/downloads/com.orgarena.orgaapp.staging/android.install.html)
-* [Android APK](https://storgaappstag002.blob.core.windows.net/downloads/com.orgarena.orgaapp.stag/orga-app.apk)
 * [Play Store Internal Test](https://play.google.com/apps/internaltest/4700481335405896282)
 * [Desktop](https://client-stag.orga-app.de)
 * [Desktop SOPI](https://orga-app-stag.sopidemo.de)
@@ -31,7 +29,6 @@
 
 * [Desktop](https://orga-app.sopidemo.de/)
 * [Android Install](https://storgaappprod002.blob.core.windows.net/downloads/com.softwarepioniere.orgaapp/android.install.html)
-* [Android APK](https://storgaappstag002.blob.core.windows.net/downloads/com.orgarena.orgaapp.stag/orga-app.apk)
 
 ## FCB
 
