@@ -16,6 +16,8 @@
 * [Desktop SOPI](https://orga-app-stag.sopidemo.de)
 * [Admin](https://admin-stag.orga-app.de)
 * [API](https://api-stag.orga-app.de)
+* [Play Store Internal Test](https://play.google.com/apps/internaltest/4700481335405896282)
+
 
 ## PRODUCTION
 
@@ -23,6 +25,7 @@
 * [Admin](https://admin.orga-app.de)
 * [API](https://api.orga-app.de)
 * [Android 1.26.0](https://storgaappprod002.blob.core.windows.net/downloads/orga-app-1-26-0.apk)
+* [Play Store Internal Test](https://play.google.com/apps/internaltest/4697268461220880981)
   
 ## SOPI
 
