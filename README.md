@@ -29,7 +29,6 @@
 ## SOPI
 
 * [Desktop](https://orga-app.sopidemo.de/)
-* [iOS](https://storgaappprod002.blob.core.windows.net/downloads/sopi-prod/orga-app.install.html)
 * [Android](https://storgaappprod002.blob.core.windows.net/downloads/sopi-prod/orga-app.apk)
 
 ## FCB
